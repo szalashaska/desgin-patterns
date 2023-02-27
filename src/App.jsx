@@ -4,6 +4,7 @@ import ContainerComponents from "./pages/ContainerComponents";
 import CotrolledUncontolledComponents from "./pages/CotrolledUncontolledComponents";
 import HigherOrderComponents from "./pages/HigherOrderComponents";
 import CustomHooks from "./pages/CustomHooks";
+import RecursiveComponents from "./pages/RecursiveComponents";
 
 function App() {
   return (
@@ -11,8 +12,9 @@ function App() {
       {/* <LayoutComponents /> */}
       {/* <ContainerComponents /> */}
       {/* <CotrolledUncontolledComponents /> */}
-      <HigherOrderComponents />
+      {/* <HigherOrderComponents /> */}
       {/* <CustomHooks /> */}
+      <RecursiveComponents />
     </div>
   );
 }

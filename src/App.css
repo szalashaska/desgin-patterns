@@ -8,3 +8,7 @@ section {
   margin-block: 2rem;
   padding: 1rem;
 }
+
+section div {
+  margin: 1rem;
+}
