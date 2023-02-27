@@ -1,3 +1,1 @@
-# desgin-patterns
-
-design patterns
+# Design patterns
