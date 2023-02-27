@@ -5,6 +5,7 @@ import CotrolledUncontolledComponents from "./pages/CotrolledUncontolledComponen
 import HigherOrderComponents from "./pages/HigherOrderComponents";
 import CustomHooks from "./pages/CustomHooks";
 import RecursiveComponents from "./pages/RecursiveComponents";
+import ErrorBoundaries from "./pages/ErrorBoundaries";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       {/* <CotrolledUncontolledComponents /> */}
       {/* <HigherOrderComponents /> */}
       {/* <CustomHooks /> */}
-      <RecursiveComponents />
+      {/* <RecursiveComponents /> */}
+      <ErrorBoundaries />
     </div>
   );
 }
